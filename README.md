@@ -8,3 +8,7 @@
 ## http://tabnet.datasus.gov.br/cgi/tabcgi.exe?ibge/cnv/poptuf.def
 - População estimada segundo Unidade da Federação - Estimativas para o tcu (fonte IBGE);
 - Pode ser utilizado para realizar parte da questão 4.
+
+## http://cnes2.datasus.gov.br/
+- Número de Estabelecimentos de Saúde por classificação;
+- Pode ser utilizado para realizar a questão 5.
